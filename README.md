@@ -92,54 +92,6 @@ Morph Testnet
 3.Use the local Hardhat network for testing and development. For production-like testing, deploy to Sepolia or another testnet.
 
 
-# Folder-directory-overview 
-e-nyaya/
-│── frontend-vite/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── blockchain-api/
-│   │   ├── components/
-│   │   │   ├── ui/
-│   │   │   │   ├── AdminDashboardComponent.jsx
-│   │   │   │   ├── CaseDetailsComponent.jsx
-│   │   │   │   ├── Footer.jsx
-│   │   │   │   ├── HeroSection.jsx
-│   │   │   │   ├── Loader.jsx
-│   │   │   │   ├── LoginComponent.jsx
-│   │   │   │   ├── Navbar.jsx
-│   │   │   │   ├── ProjectStatistics.jsx
-│   │   │   │   ├── RegisterANewCaseComponent.jsx
-│   │   │   │   ├── SearchCaseDetailsComponent.jsx
-│   │   │   │   ├── SignUpComponent.jsx
-│   │   ├── lib/
-│   │   │   ├── utils.js
-│   │   ├── pages/
-│   │   │   ├── AdminPage.jsx
-│   │   │   ├── CaseDetailsPage.jsx
-│   │   │   ├── GetCaseDetailsPage.jsx
-│   │   │   ├── HomePage.jsx
-│   │   │   ├── LoginPage.jsx
-│   │   │   ├── RegisterNewLegalCasePage.jsx
-│   │   │   ├── SignUpPage.jsx
-│   │   │   ├── TestPage.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   ├── backend-config.json
-│   ├── index.css
-│   ├── main.jsx
-│   ├── .env.example
-│   ├── .eslintrc.cjs
-│   ├── .gitignore
-│   ├── components.json
-│   ├── index.html
-│   ├── jsconfig.json
-│   ├── package.json
-│   ├── postcss.config.js
-│   ├── tailwind.config.js
-│   ├── vite.config.js
-
-
 # Made at ELectrothon 7.0 by TEAM SCAM 2K25
 ## Team member details: 
 Ananya Pratap singh -- 
